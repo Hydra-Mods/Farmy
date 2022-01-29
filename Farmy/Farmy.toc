@@ -1,0 +1,11 @@
+## Interface: 90005
+## Author: Hydra
+## Version: 1.00
+## Title: |cfff5b349Farmy|r
+## Notes: Track gathered items.
+## SavedVariables: FarmyMarketPrices, FarmyLastScan, FarmySettings, FarmyIgnore
+
+LibStub.lua
+CallbackHandler-1.0.lua
+LibSharedMedia-3.0.lua
+Farmy.lua
